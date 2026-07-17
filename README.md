@@ -7,7 +7,7 @@ I build production systems that touch money, messages, and markets — trading b
 
 <p align="center">
   <a href="https://topboyinnovation.com"><img src="https://img.shields.io/badge/site-topboyinnovation.com-0A66C2?style=flat-square" /></a>
-  <a href="mailto:hello@topboy-innovation.com"><img src="https://img.shields.io/badge/email-hello%40topboy--innovation.com-informational?style=flat-square" /></a>
+  <a href="mailto:Dev@topboyinnovation.com"><img src="https://img.shields.io/badge/email-Dev%40topboyinnovation.com-informational?style=flat-square" /></a>
   <img src="https://img.shields.io/badge/based%20in-Lagos%2C%20Nigeria-green?style=flat-square" />
 </p>
 
