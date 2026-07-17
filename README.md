@@ -83,7 +83,7 @@ Multi-session WhatsApp bot on Baileys with 90+ commands — from utilities to au
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tophacker15&layout=compact&theme=radical&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Tophacker15&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Tophacker15&theme=radical&hide_border=true" />
 </p>
 
 <!-- 
