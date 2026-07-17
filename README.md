@@ -1,5 +1,12 @@
-<h1 align="center">Hi, I'm TOPBOY 👋</h1>
-<h3 align="center">Founder @ Topboy Innovation — Lagos, Nigeria 🇳🇬</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:FF0080&height=200&section=header&text=Hi,%20I'm%20TOPBOY%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Tophacker15">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0080&center=true&vCenter=true&width=600&lines=Founder+%40+Topboy+Innovation;Lagos%2C+Nigeria+%F0%9F%87%B3%F0%9F%87%AC;Trading+Bots+%7C+Blockchain+%7C+AI+Automation" />
+  </a>
+</p>
 
 <p align="center">
 I build production systems that touch money, messages, and markets — trading bots, blockchain infra, telecom platforms, and AI automation. I ship working code, not slideware.
