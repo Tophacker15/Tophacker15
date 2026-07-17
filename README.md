@@ -68,11 +68,11 @@ Multi-session WhatsApp bot on Baileys with 90+ commands — from utilities to au
 ### 📊 Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Tophacker15&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tophacker15&layout=compact&theme=radical&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tophacker15&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -80,5 +80,5 @@ Multi-session WhatsApp bot on Baileys with 90+ commands — from utilities to au
 ### 📬 Reach Me
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2347037808537)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/topboy_innovation)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@topboy-innovation.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Dev@topboy-innovation.com)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://topboyinnovation.com)
